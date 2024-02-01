@@ -1,48 +1,41 @@
-<h1 align="center">Oie 👋, Eu sou a Denise!</h1>
-<h3 align="center">Apaixonada por análise de dados e visualizações.</h3>
-
-- 👩‍💻Atualmente estou aprendendo **Python**
-
-- 💬 Me pergunte sobre **SQL,Power BI e Excel**
-
-- 📫 Você me acha **denisekta@gmail.com**
-
-- 📄 Minhas experiências: [https://www.linkedin.com/in/denise-barcelos/](https://www.linkedin.com/in/denise-barcelos/)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kau-MySQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Kau-Sever" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="Kau-Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Kau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
+<div align="middle">
+<img src="https://github.com/gersonsmith/gersonsmith/blob/main/Card.png" alt="Gerson Smith" height="250" width="810">
 </div>
 
+### Seja bem vindo (a)! 👋
+<br>
 
-![Capa](https://github.com/avmachado/avmachado/blob/master/card.png)
-<p align=center> 
-  <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="linkedin1.png" width = 30px> </a> 
-  <a href = "https://medium.com/@vieirapmachado"><img src="medium1.png" width = 30px> </a> 
-</p>
+#### &#128587;&#8205;&#9792;&#65039; Sobre mim
 
-### Seja bem vindo (a)!
-#### Sobre mim
-Sou natural de Cataguases/MG, Engenheira Química, e aspirante a Cientista de Dados. <br>
-Iniciei meus estudos na área de Ciência de Dados em 2020 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
+Sou analista de BI com mais de 7 anos de experiência em criar relatórios, dashboards e soluções de inteligência de negócios para diferentes setores e clientes. <br>
 
-#### Algumas das minhas formações:
+Fui consultora de Power BI na QDOIS, atendendo a Ambev, uma das maiores cervejarias do mundo, e analista de BI na Sitel, onde criei reports sobre a operação dos chatbots para marcas como Havaianas e HBO Max. Nessas experiências, desenvolvi habilidades em Power BI, SQL, Azure DevOps, Notion e Figma, além de conduzir reuniões, gerir backlog e automatizar tarefas. Meu objetivo é usar meus conhecimentos e competências para transformar dados em insights que possam melhorar os processos, os resultados e a tomada de decisão dos negócios.
 
-- Ciência da Computação (UNIP) - Em Andamento
-- Especialização em Ciência de Dados e Big Data (PUC Minas) - Em Andamento
-- Formação Cientista de Dados - FCD (Data Science Academy -  DSA) - Em Andamento
+#### 🛠️ Ferramentas
+- Power BI
+- DAX Studio
+- SQL Server
+- Azure DEVOPS
+- Notion
+- Figma
+- Excel
+- Process Robot (RPA)
+- 👩‍💻 Aprendendo **Python**
 
-
-#### Curiosidades
-:heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
+#### 🤹🏻 Principais skills
+- Criação de relatórios e dashboards interativos;
+- Desenvolvimento e sustentação de RPA;
+- Criação de reports sobre operação de chatbots;
+- Reuniões para apresentação de resultados e melhoria de processos;
+- Cálculo de Faturamento intercompany de Centro de Serviços Compartilhados (CSC);
+- Cálculo de custos e precificação em Indústria têxtil.
 
 ### Repositórios
 - <b>Visualização de Dados</b>
   - [Power BI](https://github.com/DeniseBP/Relatorios_PBI)
+
+
+
 
 <!--
 **DeniseBP/DeniseBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,3 +51,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kau-Sever" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Kau-Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Kau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kau-PowerBI" height="30" width="30" <(img src= "https://github.com/DeniseBP/DeniseBP/assets/135619206/d7a5e96d-e09e-4994-b6cc-949cb1a689de" />
+
+  
+  
+</div>
+
+
+
