@@ -1,5 +1,5 @@
 <div align="middle">
-<img src="https://github.com/gersonsmith/gersonsmith/blob/main/Card.png" alt="Gerson Smith" height="250" width="810">
+<img src="https://github.com/DeniseBP/DeniseBP/blob/main/Capa.png" alt="Denise Barcelos" height="262" width="973">
 </div>
 
 ### Seja bem vindo (a)! 👋
@@ -28,7 +28,7 @@ Fui consultora de Power BI na QDOIS, atendendo a Ambev, uma das maiores cervejar
 - Figma
 - Excel
 - Process Robot (RPA)
-- 👩‍💻 Aprendendo **Python**
+- 👩‍💻 Estudando **Python**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kau-PowerBI" height="27" width="23" <(img src= "https://github.com/DeniseBP/DeniseBP/assets/135619206/d7a5e96d-e09e-4994-b6cc-949cb1a689de" />
