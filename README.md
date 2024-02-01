@@ -1,5 +1,5 @@
 <div align="middle">
-<img src="https://github.com/DeniseBP/DeniseBP/blob/main/Capa.png" alt="Denise Barcelos" height="262" width="973">
+<img src="https://github.com/DeniseBP/DeniseBP/blob/main/Capa.png" alt="Denise Barcelos" height="255" width="973">
 </div>
 
 ### Seja bem vindo (a)! 👋
