@@ -42,7 +42,7 @@ Fui consultora de Power BI na QDOIS, atendendo a Ambev, uma das maiores cervejar
 
 ### Repositórios
 - <b>Visualização de Dados</b>
-  - [Power BI](https://github.com/DeniseBP/Relatorios_PBI)
+  - [Relatórios em Power BI](https://github.com/DeniseBP/Relatorios_PBI)
 
 
 
