@@ -21,14 +21,13 @@ Fui consultora de Power BI na QDOIS, atendendo a Ambev, uma das maiores cervejar
 
 #### 🛠️ Ferramentas
 - Power BI
-- DAX Studio
 - SQL Server
-- Azure DEVOPS
+- **Python** 👩‍💻 Estudando
+- DAX Studio
 - Notion
 - Figma
 - Excel
 - Process Robot (RPA)
-- 👩‍💻 Estudando **Python**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kau-PowerBI" height="27" width="23" <(img src= "https://github.com/DeniseBP/DeniseBP/assets/135619206/d7a5e96d-e09e-4994-b6cc-949cb1a689de" />
@@ -43,6 +42,7 @@ Fui consultora de Power BI na QDOIS, atendendo a Ambev, uma das maiores cervejar
 ### Repositórios
 - <b>Visualização de Dados</b>
   - [Relatórios em Power BI](https://github.com/DeniseBP/Relatorios_PBI)
+  - [Projetos em Python](https://github.com/DeniseBP/Python)
 
 
 
